@@ -2,7 +2,7 @@
 
 **Senior Artificial Intelligence Student | Effat University**
 
-Artificial Intelligence student focused on machine learning, deep learning, data science, and big data analytics. Interested in developing data-driven projects across healthcare and predictive modeling.
+Developing data-driven and intelligent solutions through academic projects and applied work, with a particular interest in healthcare applications and predictive systems.
 
 ### Areas of Focus
 
@@ -10,13 +10,14 @@ Artificial Intelligence student focused on machine learning, deep learning, data
 * Deep Learning
 * Data Science
 * Big Data Analytics
-* Text Mining & Natural Language Processing 
+* Text Mining & Natural Language Processing
 
 ### Technical Skills
 
-**Programming:** Python, JavaScript, HTML, CSS, Java, PHP
+**Programming:** Python, Java, JavaScript, PHP
 **Machine Learning:** Scikit-learn, Pandas, NumPy
 **Big Data:** Apache Spark, PySpark, HDFS
+**Web:** HTML, CSS
 **Tools:** Git, GitHub, Jupyter, Google Colab
 
 ### Selected Projects
@@ -36,3 +37,4 @@ Real-time seizure detection using smartwatch and physiological data.
 ### Links
 
 [Portfolio](https://DanaMounayer.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/dana-al-mounayer-2a9438293)
+
