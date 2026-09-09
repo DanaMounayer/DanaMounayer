@@ -14,11 +14,11 @@ Developing data-driven and intelligent solutions through academic projects and a
 
 ### Technical Skills
 
-**Programming:** Python, Java, JavaScript, PHP
-**Machine Learning:** Scikit-learn, Pandas, NumPy
-**Big Data:** Apache Spark, PySpark, HDFS
-**Web:** HTML, CSS
-**Tools:** Git, GitHub, Jupyter, Google Colab
+**Programming:** Python, Java, JavaScript, PHP  
+**Machine Learning:** Scikit-learn, Pandas, NumPy  
+**Big Data:** Apache Spark, PySpark, HDFS  
+**Web:** HTML, CSS  
+**Tools:** Git, GitHub, Jupyter, Google Colab  
 
 ### Selected Projects
 
