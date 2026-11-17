@@ -5,7 +5,7 @@
 Building machine learning, deep learning and NLP solutions with a focus on healthcare AI and predictive systems.
 GPA 3.87 · President's List 2025–2026 · Dean's List 2023–2024, 2024–2025 · IBM AI Engineering Professional Certificate
 
-[Portfolio](https://danamounayer.github.io/Portfolio/) · [CV](https://danamounayer.github.io/Portfolio/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/dana-al-mounayer-2a9438293) · [Email](mailto:dana.mounayer@gmail.com)
+[Portfolio](https://danamounayer.github.io/Portfolio/) · [CV](https://danamounayer.github.io/Portfolio/CV.pdf) · [LinkedIn](https://www.linkedin.com/in/danamounayer) · [Email](mailto:dana.mounayer@gmail.com)
 
 ### Areas of focus
 
